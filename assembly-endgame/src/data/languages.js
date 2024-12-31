@@ -15,6 +15,11 @@ export const languages = [
         color: "#1E1E1E",
     },
     {
+        name: "Svelte",
+        backgroundColor: "#f47113",
+        color: "#F9F4DA",
+    },
+    {
         name: "React",
         backgroundColor: "#2ED3E9",
         color: "#1E1E1E",
@@ -33,6 +38,11 @@ export const languages = [
         name: "Python",
         backgroundColor: "#FFD742",
         color: "#1E1E1E",
+    },
+    {
+        name: "Vue",
+        backgroundColor: "#048e13",
+        color: "#F9F4DA",
     },
     {
         name: "Ruby",

@@ -12,6 +12,9 @@ export default {
         key: "#FCBA29",
         wordBox: "#323232",
         border: "#F9F4DA"
+      },
+      fontFamily: {
+        sans: ['"Hanken Grotesk"', 'Arial', 'sans-serif'],
       }
     },
   },
