@@ -9,7 +9,7 @@ export default function Keyboard(props) {
         const className = clsx({
             "bg-green-500": isCorrect,
             "bg-red-500": isWrong,
-            "bg-key": !isGuessed
+            "bg-keyButton": !isGuessed
         })
 
         return (

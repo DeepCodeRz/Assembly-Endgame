@@ -8,7 +8,7 @@ export function getFarewellText(language) {
     const options = [
         `Farewell, ${language}`,
         `Adios, ${language}`,
-        `R.I.P., ${language}`,
+        `Your memory will live on, ${language}`,
         `We'll miss you, ${language}`,
         `Oh no, not ${language}!`,
         `${language} bites the dust`,

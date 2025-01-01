@@ -7,14 +7,14 @@ export default {
   theme: {
     extend: {
       colors: {
-        title: "#F9F4DA",
+        text: "#F9F4DA",
         background: "#282726",
-        key: "#FCBA29",
+        keyButton: "#FCBA29",
         wordBox: "#323232",
         border: "#F9F4DA"
       },
       fontFamily: {
-        sans: ['"Hanken Grotesk"', 'Arial', 'sans-serif'],
+        sans: ['Hanken Grotesk', 'Arial', 'sans-serif'],
       }
     },
   },
